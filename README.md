@@ -1,17 +1,19 @@
 # Random-User-API-Performance-Test
 ## About this project
-### "Dmoney" is a financial demonstration project that demonstrates where money can be transferred. In this project, I have automated the dmoney API using "Jmeter". 
-Here, I have covered the following tasks:
+### In this project, I have tested the performance of Random user API using "Jmeter". 
+#### Here, I have covered the following tasks:
 
-- Admin login and user creation
-- Deposit money to Agent from System account
-- Deposit money to Customer from Agent
-- Check balance from Customer account
-- Withdraw money from Customer
-- Payment to Merchant from Customer account
+- Load test
+- Bottleneck/Stress test point
 
 ## Tools and  Technology used
 - Jmeter
 
-## Test report
+## Load Test informations
+![Load test](https://github.com/Ratulhasan88/Random-User-API-Performance-Test/assets/135263807/3f79e06a-2431-48fd-91f3-ae97a6d715f4)
+
+## Bottleneck/Stress test point informations
+![stress test](https://github.com/Ratulhasan88/Random-User-API-Performance-Test/assets/135263807/5eb457a9-a9b3-40a5-bb49-8eb0e1a1278e)
+
+
 
